@@ -641,11 +641,22 @@
     "reuse_designators": true,
     "subpart_first_id": 65,
     "subpart_id_separator": 0,
-    "top_level_sheets": [],
-    "used_designators": "U1",
+    "top_level_sheets": [
+      {
+        "filename": "CH340USBC.kicad_sch",
+        "name": "CH340USBC",
+        "uuid": "3e81fe1d-d98f-48a2-964b-52ef33a6c9d3"
+      }
+    ],
+    "used_designators": "#PWR1,J1-2,U1",
     "variants": []
   },
-  "sheets": [],
+  "sheets": [
+    [
+      "3e81fe1d-d98f-48a2-964b-52ef33a6c9d3",
+      "CH340USBC"
+    ]
+  ],
   "text_variables": {},
   "tuning_profiles": {
     "meta": {
